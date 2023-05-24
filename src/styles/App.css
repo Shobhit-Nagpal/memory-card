@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;800&display=swap');
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #121212;
+}
+
+.App {
+  text-align: center;
+  color: #03dac5;
+  font-family: 'Public Sans', sans-serif;
+  padding: 10px;
+}
+
+.header {
+  color: #03dac5;
+  font-size: 30px;
+}
+
+.characters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.character {
+  margin: 20px;
+  cursor: pointer;
+  background-color: #03dac5;
+  color: #121212;
+  border-radius: 20px;
+}
+
+img {
+  width: 500px;
+  height: auto;
+  border-radius: 18px;
+  object-fit:scale-down;
+}
+
+.score {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 80px;
+  margin-top: 25px;
+}
+
+#credit {
+  color: #03dac5;
+}
+
+a:link, a:visited {
+  color: #03dac5;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 20px;
+}
