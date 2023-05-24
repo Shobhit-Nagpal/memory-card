@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-card/static/css/main.f6d4ab4e.css",
+    "main.css": "/memory-card/static/css/main.cc631e71.css",
     "main.js": "/memory-card/static/js/main.57438757.js",
     "static/media/michael-scott.png": "/memory-card/static/media/michael-scott.f577988b7d85ebc82a3a.png",
     "static/media/angela-martin.png": "/memory-card/static/media/angela-martin.326d411463e09b1b3241.png",
@@ -12,11 +12,11 @@
     "static/media/stanley-hudson.png": "/memory-card/static/media/stanley-hudson.3249a1edfd587a0886d3.png",
     "static/media/dwight-schrute.png": "/memory-card/static/media/dwight-schrute.1abf96b790f683619030.png",
     "index.html": "/memory-card/index.html",
-    "main.f6d4ab4e.css.map": "/memory-card/static/css/main.f6d4ab4e.css.map",
+    "main.cc631e71.css.map": "/memory-card/static/css/main.cc631e71.css.map",
     "main.57438757.js.map": "/memory-card/static/js/main.57438757.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6d4ab4e.css",
+    "static/css/main.cc631e71.css",
     "static/js/main.57438757.js"
   ]
 }
