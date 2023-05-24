@@ -1,3 +1,9 @@
+# About
+
+The Memory Card project is a game where you have to click on all characters only once, remembering whom you've clicked on. It is a project that comes under the React section of The Odin Project. The goal of this project was to implement React hooks such as useState and useEffect to better understand functional components.
+
+Link to the game: https://shobhit-nagpal.github.io/memory-card/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
